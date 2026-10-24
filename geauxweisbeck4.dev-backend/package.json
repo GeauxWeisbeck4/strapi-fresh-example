@@ -16,7 +16,7 @@
     "better-sqlite3": "8.0.1",
     "pg": "^8.11.0",
     "pg-connection-string": "^2.6.0",
-    "sqlite3": "^5.1.6",
+    "sqlite3": "^6.0.0",
     "strapi-chatgpt": "^1.0.2",
     "strapi-provider-upload-cloudinary": "^3.6.11"
   },
